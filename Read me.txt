@@ -1,0 +1,4 @@
+It is necessary to install the 
+-pandas library 
+-requests library 
+-BeautifulSoup library
